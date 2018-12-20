@@ -1,0 +1,5 @@
+config/*
+!config/sample_config.ini
+*.xml
+*.pyc
+.idea
